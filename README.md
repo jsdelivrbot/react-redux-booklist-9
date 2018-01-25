@@ -1,12 +1,12 @@
-# react-youtube-emulator
+# react-redux-booklist
 
-A simple youtube emulator using react and the youtube api
+A booklist with state management via react-redux
 
 ### Getting Started
 
 ```
-> git clone https://github.com/vincepreziose/react-youtube-emulator.git
-> cd react-youtube-emulator
+> git clone https://github.com/vincepreziose/react-redux-booklist.git
+> cd react-redux-booklist
 > npm install
 > npm start
 ```
